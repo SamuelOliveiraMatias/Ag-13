@@ -31,7 +31,7 @@ Navegue até o diretório do projeto:
 ```bash
 cd agenda13
 ```
-Abra o arquivo `index.html` em um navegador para visualizar a aplicação ou acesse `LINK`.
+Abra o arquivo `index.html` em um navegador para visualizar a aplicação ou acesse `(https://samueloliveiramatias.github.io/Ag-13/)`.
 
 ## Conclusão
 **Agenda 13** é uma ferramenta prática e eficiente para gerenciar sites favoritos, com uma interface organizada e fácil de usar. A aplicação oferece uma experiência de navegação moderna e simplificada, permitindo um acesso mais rápido aos conteúdos mais relevantes para o usuário.
